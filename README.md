@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # COVID-19 Global Health Analytics (2020–2026)
 
 ## Project Overview
@@ -40,5 +40,5 @@ Global COVID-19 health data analysis (2020–2026) using WHO data, focusing on t
 
 
 
->>>>>>> c213e368db829b9906cf773a4f66be9ad7f016e1
+
 
