@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COVID-19 Global Health Analytics (2020–2026)
 
 ## Project Overview
@@ -33,4 +34,11 @@ The analysis is designed to support:
 - Git & GitHub (version control)
 
 ## Project Structure
+=======
+# covid19-global-health-analysis
+Global COVID-19 health data analysis (2020–2026) using WHO data, focusing on trends, vaccination impact, and public health insights across countries and continents.
+
+
+
+>>>>>>> c213e368db829b9906cf773a4f66be9ad7f016e1
 
